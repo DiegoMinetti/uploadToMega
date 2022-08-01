@@ -37,7 +37,7 @@ with stopwatch('Comprimir_Carpeta'):
     zip_file.close()
 
 mega = Mega()
-m = mega.login("diegominetti@fewlines.com.ar","Ab.+63200")
+m = mega.login("usuarioMega","contraseñaMega")
 
 #print('Number of arguments:', len(sys.argv), 'arguments.')
 #print('Argument List:', str(sys.argv))
